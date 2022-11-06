@@ -1,8 +1,6 @@
 ### Hi there 👋I'm Viacheslav Terentyev
 ### Junior iOS - Developer
-![programming](https://user-images.githubusercontent.com/98548733/181935961-30033d69-5916-494b-8d0c-139db151c1ac.gif)
-![Frame 1](https://user-images.githubusercontent.com/98548733/181935963-02beea5a-b722-40c7-9e0e-5a309a87e0c0.png)
-![2022-07-30_20-54-42](https://user-images.githubusercontent.com/98548733/181936001-4d7159ab-9cec-405f-befc-559005621cef.png)
+
 
 ### Connect with me:
 
